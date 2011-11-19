@@ -1,6 +1,6 @@
 Summary:	The symfony project PEAR channel
 Name:		php-channel-symfony
-Version:	1.0
+Version:	1.3
 Release:	%mkrel 1
 Group:		Development/PHP
 License:	MIT
