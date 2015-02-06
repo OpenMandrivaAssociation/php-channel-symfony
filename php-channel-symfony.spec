@@ -1,7 +1,7 @@
 Summary:	The symfony project PEAR channel
 Name:		php-channel-symfony
 Version:	1.3
-Release:	2
+Release:	3
 Group:		Development/PHP
 License:	MIT
 URL:		http://pear.symfony-project.com/
