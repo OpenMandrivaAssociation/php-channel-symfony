@@ -4,7 +4,7 @@ Version:	1.3
 Release:	3
 Group:		Development/PHP
 License:	MIT
-URL:		http://pear.symfony-project.com/
+URL:		https://pear.symfony-project.com/
 Source0:	http://pear.symfony-project.com/channel.xml
 BuildRequires:	php-pear
 Requires:	php-pear
